@@ -9,22 +9,22 @@ Hier kan je enkele nuttige tools vinden die jou kunnen helpen tijdens het ontwer
 
 ## Game engines en frameworks
 
-| Tool     | Link                                                            |            Usage |
-| :------- | :-------------------------------------------------------------- | ---------------: |
-| ToolNaam | [ToolNaam]([Tool](https://www.youtube.com/watch?v=dQw4w9WgXcQ)) | Tool voor doel X |
+| Tool     | Link                                                    |            Usage |
+| :------- | :------------------------------------------------------ | ---------------: |
+| ToolNaam | [ToolNaam](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Tool voor doel X |
 
 
 
 
 ## Game assets en sound effects
 
-| Tool     | Link                                                            |            Usage |
-| :------- | :-------------------------------------------------------------- | ---------------: |
-| ToolNaam | [ToolNaam]([Tool](https://www.youtube.com/watch?v=dQw4w9WgXcQ)) | Tool voor doel X |
+| Tool     | Link                                                    |            Usage |
+| :------- | :------------------------------------------------------ | ---------------: |
+| ToolNaam | [ToolNaam](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Tool voor doel X |
 
 
 ## Tutorials en guides
 
-| Tool     | Link                                                            |            Usage |
-| :------- | :-------------------------------------------------------------- | ---------------: |
-| ToolNaam | [ToolNaam]([Tool](https://www.youtube.com/watch?v=dQw4w9WgXcQ)) | Tool voor doel X |
+| Tool     | Link                                                    |            Usage |
+| :------- | :------------------------------------------------------ | ---------------: |
+| ToolNaam | [ToolNaam](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Tool voor doel X |
