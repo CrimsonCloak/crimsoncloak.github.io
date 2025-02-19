@@ -5,4 +5,4 @@ order: 1
 ---
 
 
-Hier vind je informatie over hoe het regsitreren voor de game jam!
+Hier vind je informatie over hoe het registreren voor de game jam!
