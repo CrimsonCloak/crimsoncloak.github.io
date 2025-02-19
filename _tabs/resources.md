@@ -9,6 +9,7 @@ Hier kan je enkele nuttige tools vinden die jou kunnen helpen tijdens het ontwer
 
 We hebben deze onderverdeeld in enkele categorieën, zodat je eenvoudig kan navigeren naar die tools die jou kunnen helpen!
 
+Disclaimer: hou rekening dat er bij sommige assets licentievoorwaarden van toepassing zijn!
 
 ## Game engines en frameworks
 
@@ -20,11 +21,32 @@ We hebben deze onderverdeeld in enkele categorieën, zodat je eenvoudig kan navi
 | [Pygame](https://www.pygame.org/wiki/about)         | Python framework voor game-ontwikkeling |
 
 
-## Game assets en sound effects
+## Game assets
 
-| Tool                               |         Gebruik |
-| :--------------------------------- | --------------: |
-| [Kenney](https://kenney.nl/assets) | 2D en 3D assets |
+| Tool                                               |         Gebruik |
+| :------------------------------------------------- | --------------: |
+| [Kenney](https://kenney.nl/assets)                 | 2D en 3D assets |
+| [Unity Asset Store](https://assetstore.unity.com/) | 2D en 3D assets |
+
+
+
+## Sound effects/Design
+
+
+| Tool                               |           Gebruik |
+| :--------------------------------- | ----------------: |
+| [BeepBox](https://www.beepbox.co/) | Online muziektool |
+
+
+## Software
+
+| Tool                                 |                         Gebruik |
+| :----------------------------------- | ------------------------------: |
+| [Krita](https://krita.org/nl/)       |    Open-Source painting program |
+| [InkScape](https://v2-audacity.com/) | Open-Source vector illustration |
+| [Audacity](https://v2-audacity.com/) |        Audio (editing) software |
+| [Blender](https://www.blender.org/)  | Modelling en sculpting software |
+
 
 
 ## Tutorials en guides
