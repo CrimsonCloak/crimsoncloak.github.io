@@ -1,8 +1,10 @@
 ---
 # the default layout is 'page'
 layout: page
+title: About
 icon: fas fa-info-circle
 permalink: /
+order: 1
 ---
 
 
