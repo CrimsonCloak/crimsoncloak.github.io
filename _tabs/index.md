@@ -1,7 +1,6 @@
 ---
 # the default layout is 'page'
 layout: page
-title: Reagent Game Jam
 icon: fas fa-info-circle
 permalink: /
 order: 1
