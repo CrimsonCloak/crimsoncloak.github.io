@@ -17,8 +17,8 @@ In tegenstelling tot wat de naam doet vermoeden, gaat het hier niet om het berei
 
 ## Doelgroep
 
-De Reagent Game Jam staat open voor iedereen die geïnteresseerd is in het experimenteren en uitproberen van game-ontwikkeling! Je hoeft nog geen gevorderde game developer te zijn; we leggen geen verplichtingen of voorwaarden op bij de manier waarop jullie team de game maakt. Heb je al veel programmeerervaring en wil je graag eens een geavanceerde game engine uitproberen? Is programmeren jou onbekend en gebruik je liever een framework om jou hierin te assisteren? Wil je met jouw team een game uitwerken in Scratch? AL dit en meer is mogelijk en wordt door het IT-Lab toegejuicht!
+De Reagent Game Jam staat open voor iedereen die geïnteresseerd is in het experimenteren en uitproberen van game-ontwikkeling! Je hoeft nog geen gevorderde game developer te zijn; we leggen geen verplichtingen of voorwaarden op bij de manier waarop jullie team de game maakt. Heb je al veel programmeerervaring en wil je graag eens een geavanceerde game engine uitproberen? Is programmeren jou onbekend en gebruik je liever een framework om jou hierin te assisteren? Wil je met jouw team een game uitwerken in Scratch? Al dit en meer is mogelijk en wordt door het IT-Lab toegejuicht!
 
 ## Deelnemen
 
-Binnen het tabbled *Deelname* kan je de inschrijvingslink (Microsoft Form) vinden voor de game jam. Let wel: voor deze eerste editie worden het aantal plaatsen beperkt tot 10 verschillende teams, van elk 3-5 teamleden!
+Binnen het tabblad *Deelname* kan je de inschrijvingslink (Microsoft Form) vinden voor de game jam. Let wel: voor deze eerste editie worden het aantal plaatsen beperkt tot 10 verschillende teams, van elk 3-5 teamleden!
