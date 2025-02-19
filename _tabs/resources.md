@@ -33,9 +33,12 @@ Disclaimer: hou rekening dat er bij sommige assets licentievoorwaarden van toepa
 ## Sound effects/Design
 
 
-| Tool                               |           Gebruik |
-| :--------------------------------- | ----------------: |
-| [BeepBox](https://www.beepbox.co/) | Online muziektool |
+| Tool                                                          |           Gebruik |
+| :------------------------------------------------------------ | ----------------: |
+| [BeepBox](https://www.beepbox.co/)                            | Online muziektool |
+| [Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue) |        Muziektool |
+
+
 
 
 ## Software
