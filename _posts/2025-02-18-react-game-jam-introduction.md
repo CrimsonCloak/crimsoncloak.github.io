@@ -5,8 +5,6 @@ author: IT-Lab
 pin: true
 ---
 
-# Reagent Game Jam - praktische informatie
-
 Beste game-ontwikkelaars(-in-spe) en sympathisanten
 
 Via deze update delen we graag al wat praktische informatie mee over de *Reagent Game Jam*. Veel van deze zaken kan je ook terugvinden onder het *About* tabblad op deze webpagina - neem deze zeker eerst eens door om een idee te krijgen van wat we proberen te bereiken met onze game jam!
