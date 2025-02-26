@@ -54,6 +54,8 @@ Disclaimer: hou rekening dat er bij sommige assets licentievoorwaarden van toepa
 
 ## Tutorials en guides
 
-| Guide                                                                             |                                Inhoud |
-| :-------------------------------------------------------------------------------- | ------------------------------------: |
-| [Brackeys - Godot beginner tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0) | Introductie tot het gebruik van Godot |
+| Guide                                                                                  |                                Inhoud |
+| :------------------------------------------------------------------------------------- | ------------------------------------: |
+| [Brackeys - Godot beginner tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)      | Introductie tot het gebruik van Godot |
+| [freeCodeCamp - Pygame beginner tutorial](https://www.youtube.com/watch?v=FfWpgLFMI7w) |                Introductie tot Pygame |
+
